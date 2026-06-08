@@ -1,0 +1,133 @@
+# Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt  - Ngôi sao
+
+**Source:** https://ngoisao.vnexpress.net/ca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html
+**Crawled:** 2026-06-08T08:18:29.661674+00:00
+
+---
+
+[Liên hệ quảng cáo](https://eclick.vn/lien-he/?utm_source=NgoiSao&utm_medium=CPC_BOX&utm_campaign=LienHeQuangCao "Liên hệ quảng cáo") [ Tin 24h ](https://ngoisao.vnexpress.net/tin-tuc-24h)
+[ ![Ngoisao.vnexpress.net – Trang bao ve nhung nguoi noi tieng](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/graphics/logo_ns.svg) ](https://ngoisao.vnexpress.net/ "Ngoisao.vnexpress.net – Trang báo về những người nổi tiếng")
+[ Đăng nhập](javascript:void\(0\); "Đăng nhập")
+  * [](https://ngoisao.vnexpress.net "Trang chủ")
+  * [Showbiz](https://ngoisao.vnexpress.net/showbiz "Showbiz")
+[Việt Nam](https://ngoisao.vnexpress.net/showbiz/viet-nam "Việt Nam") [Châu Á](https://ngoisao.vnexpress.net/showbiz/chau-a "Châu Á") [Âu Mỹ](https://ngoisao.vnexpress.net/showbiz/au-my "Âu Mỹ")
+  * [Thời cuộc](https://ngoisao.vnexpress.net/thoi-cuoc "Thời cuộc")
+[Hoàng gia](https://ngoisao.vnexpress.net/thoi-cuoc/hoang-gia "Hoàng gia") [Chuyện lạ](https://ngoisao.vnexpress.net/thoi-cuoc/chuyen-la "Chuyện lạ") [Hình sự](https://ngoisao.vnexpress.net/thoi-cuoc/hinh-su "Hình sự")
+  * [Video](https://ngoisao.vnexpress.net/video "Video")
+  * [Làm đẹp](https://ngoisao.vnexpress.net/lam-dep "Làm đẹp")
+[Tóc](https://ngoisao.vnexpress.net/lam-dep/toc "Tóc") [Da](https://ngoisao.vnexpress.net/lam-dep/da "Da") [Trang điểm](https://ngoisao.vnexpress.net/lam-dep/trang-diem "Trang điểm") [Dáng](https://ngoisao.vnexpress.net/lam-dep/dang "Dáng") [Phẫu thuật thẩm mỹ](https://ngoisao.vnexpress.net/lam-dep/phau-thuat-tham-my "Phẫu thuật thẩm mỹ")
+  * [Lối sống](https://ngoisao.vnexpress.net/loi-song "Lối sống")
+[Sống khỏe](https://ngoisao.vnexpress.net/loi-song/song-khoe "Sống khỏe") [Gỡ rối](https://ngoisao.vnexpress.net/loi-song/go-roi "Gỡ rối") [Tình yêu](https://ngoisao.vnexpress.net/loi-song/tinh-yeu "Tình yêu") [Công sở](https://ngoisao.vnexpress.net/loi-song/cong-so "Công sở") [Cưới](https://ngoisao.vnexpress.net/loi-song/cuoi-hoi "Cưới") [Nhà cửa](https://ngoisao.vnexpress.net/loi-song/nha-cua "Nhà cửa")
+  * [Ảnh](https://ngoisao.vnexpress.net/anh "Ảnh")
+  * [Thời trang](https://ngoisao.vnexpress.net/thoi-trang "Thời trang")
+[Sao style](https://ngoisao.vnexpress.net/thoi-trang/sao-style "Sao style") [Tư vấn](https://ngoisao.vnexpress.net/thoi-trang/tu-van "Tư vấn") [Làng mốt](https://ngoisao.vnexpress.net/thoi-trang/lang-mot "Làng mốt")
+  * [Ăn chơi](https://ngoisao.vnexpress.net/an-choi "Ăn chơi")
+[Ẩm thực](https://ngoisao.vnexpress.net/an-choi/am-thuc "Ẩm thực") [Du lịch](https://ngoisao.vnexpress.net/an-choi/du-lich "Du lịch") [Tips](https://ngoisao.vnexpress.net/an-choi/tips "Tips")
+  * [Trắc nghiệm](https://ngoisao.vnexpress.net/trac-nghiem "Trắc nghiệm")
+[Cung Hoàng Đạo](https://ngoisao.vnexpress.net/trac-nghiem/cung-hoang-dao "Cung Hoàng Đạo") [Quiz](https://ngoisao.vnexpress.net/trac-nghiem/quiz "Quiz") [Tarot](https://ngoisao.vnexpress.net/trac-nghiem/tarot "Tarot")
+  * [Podcasts](https://ngoisao.vnexpress.net/podcast "Podcasts")
+[Điểm tin](https://ngoisao.vnexpress.net/podcast/diem-tin "Điểm tin") [Bước qua đổ vỡ](https://ngoisao.vnexpress.net/podcast/buoc-qua-do-vo "Bước qua đổ vỡ") [Khi ta trẻ](https://ngoisao.vnexpress.net/podcast/khi-ta-tre "Khi ta trẻ") [Suỵt](https://ngoisao.vnexpress.net/podcast/suyt "Suỵt") [Trà đá cùng sao](https://ngoisao.vnexpress.net/podcast/tra-da-cung-sao "Trà đá cùng sao") [Hồ sơ vụ án](https://ngoisao.vnexpress.net/podcast/ho-so-vu-an "Hồ sơ vụ án") [Tám công sở](https://ngoisao.vnexpress.net/podcast/tam-cong-so "Tám công sở") [Lắng - đọng](https://ngoisao.vnexpress.net/podcast/lang-dong "Lắng - đọng")
+  * [Xem](https://ngoisao.vnexpress.net/xem "Xem")
+[Phim](https://ngoisao.vnexpress.net/xem/phim "Phim") [Nhạc](https://ngoisao.vnexpress.net/xem/nhac "Nhạc")
+  * [Thể thao](https://ngoisao.vnexpress.net/the-thao "Thể thao")
+[Trong nước](https://ngoisao.vnexpress.net/the-thao/trong-nuoc "Trong nước") [Quốc tế](https://ngoisao.vnexpress.net/the-thao/quoc-te "Quốc tế")
+  * [Thương trường](https://ngoisao.vnexpress.net/thuong-truong "Thương trường")
+[Doanh nhân](https://ngoisao.vnexpress.net/thuong-truong/doanh-nhan "Doanh nhân") [Tiêu dùng](https://ngoisao.vnexpress.net/thuong-truong/tieu-dung "Tiêu dùng")
+
+
+  * [](https://ngoisao.vnexpress.net "Trang chủ")
+  * [Showbiz](https://ngoisao.vnexpress.net/showbiz "Showbiz")
+[Việt Nam](https://ngoisao.vnexpress.net/showbiz/viet-nam "Việt Nam") [Châu Á](https://ngoisao.vnexpress.net/showbiz/chau-a "Châu Á") [Âu Mỹ](https://ngoisao.vnexpress.net/showbiz/au-my "Âu Mỹ")
+  * [Thời cuộc](https://ngoisao.vnexpress.net/thoi-cuoc "Thời cuộc")
+[Hoàng gia](https://ngoisao.vnexpress.net/thoi-cuoc/hoang-gia "Hoàng gia") [Chuyện lạ](https://ngoisao.vnexpress.net/thoi-cuoc/chuyen-la "Chuyện lạ") [Hình sự](https://ngoisao.vnexpress.net/thoi-cuoc/hinh-su "Hình sự")
+  * [Video](https://ngoisao.vnexpress.net/video "Video")
+  * [Làm đẹp](https://ngoisao.vnexpress.net/lam-dep "Làm đẹp")
+[Tóc](https://ngoisao.vnexpress.net/lam-dep/toc "Tóc") [Da](https://ngoisao.vnexpress.net/lam-dep/da "Da") [Trang điểm](https://ngoisao.vnexpress.net/lam-dep/trang-diem "Trang điểm") [Dáng](https://ngoisao.vnexpress.net/lam-dep/dang "Dáng") [Phẫu thuật thẩm mỹ](https://ngoisao.vnexpress.net/lam-dep/phau-thuat-tham-my "Phẫu thuật thẩm mỹ")
+  * [Lối sống](https://ngoisao.vnexpress.net/loi-song "Lối sống")
+[Sống khỏe](https://ngoisao.vnexpress.net/loi-song/song-khoe "Sống khỏe") [Gỡ rối](https://ngoisao.vnexpress.net/loi-song/go-roi "Gỡ rối") [Tình yêu](https://ngoisao.vnexpress.net/loi-song/tinh-yeu "Tình yêu") [Công sở](https://ngoisao.vnexpress.net/loi-song/cong-so "Công sở") [Cưới](https://ngoisao.vnexpress.net/loi-song/cuoi-hoi "Cưới") [Nhà cửa](https://ngoisao.vnexpress.net/loi-song/nha-cua "Nhà cửa")
+  * [Ảnh](https://ngoisao.vnexpress.net/anh "Ảnh")
+  * [Thời trang](https://ngoisao.vnexpress.net/thoi-trang "Thời trang")
+[Sao style](https://ngoisao.vnexpress.net/thoi-trang/sao-style "Sao style") [Tư vấn](https://ngoisao.vnexpress.net/thoi-trang/tu-van "Tư vấn") [Làng mốt](https://ngoisao.vnexpress.net/thoi-trang/lang-mot "Làng mốt")
+  * [Ăn chơi](https://ngoisao.vnexpress.net/an-choi "Ăn chơi")
+[Ẩm thực](https://ngoisao.vnexpress.net/an-choi/am-thuc "Ẩm thực") [Du lịch](https://ngoisao.vnexpress.net/an-choi/du-lich "Du lịch") [Tips](https://ngoisao.vnexpress.net/an-choi/tips "Tips")
+  * [Trắc nghiệm](https://ngoisao.vnexpress.net/trac-nghiem "Trắc nghiệm")
+[Cung Hoàng Đạo](https://ngoisao.vnexpress.net/trac-nghiem/cung-hoang-dao "Cung Hoàng Đạo") [Quiz](https://ngoisao.vnexpress.net/trac-nghiem/quiz "Quiz") [Tarot](https://ngoisao.vnexpress.net/trac-nghiem/tarot "Tarot")
+  * [Podcasts](https://ngoisao.vnexpress.net/podcast "Podcasts")
+[Điểm tin](https://ngoisao.vnexpress.net/podcast/diem-tin "Điểm tin") [Bước qua đổ vỡ](https://ngoisao.vnexpress.net/podcast/buoc-qua-do-vo "Bước qua đổ vỡ") [Khi ta trẻ](https://ngoisao.vnexpress.net/podcast/khi-ta-tre "Khi ta trẻ") [Suỵt](https://ngoisao.vnexpress.net/podcast/suyt "Suỵt") [Trà đá cùng sao](https://ngoisao.vnexpress.net/podcast/tra-da-cung-sao "Trà đá cùng sao") [Hồ sơ vụ án](https://ngoisao.vnexpress.net/podcast/ho-so-vu-an "Hồ sơ vụ án") [Tám công sở](https://ngoisao.vnexpress.net/podcast/tam-cong-so "Tám công sở") [Lắng - đọng](https://ngoisao.vnexpress.net/podcast/lang-dong "Lắng - đọng")
+  * [Xem](https://ngoisao.vnexpress.net/xem "Xem")
+[Phim](https://ngoisao.vnexpress.net/xem/phim "Phim") [Nhạc](https://ngoisao.vnexpress.net/xem/nhac "Nhạc")
+  * [Thể thao](https://ngoisao.vnexpress.net/the-thao "Thể thao")
+[Trong nước](https://ngoisao.vnexpress.net/the-thao/trong-nuoc "Trong nước") [Quốc tế](https://ngoisao.vnexpress.net/the-thao/quoc-te "Quốc tế")
+  * [Thương trường](https://ngoisao.vnexpress.net/thuong-truong "Thương trường")
+[Doanh nhân](https://ngoisao.vnexpress.net/thuong-truong/doanh-nhan "Doanh nhân") [Tiêu dùng](https://ngoisao.vnexpress.net/thuong-truong/tieu-dung "Tiêu dùng")
+
+
+[ Copy link thành công ](javascript:; "Copy link") [ ](javascript:; "Chia sẻ bài viết lên Facebook") [ ](https://t.me/share/url?url=https%3A%2F%2Fngoisao.vnexpress.net%2Fca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html&text=Ca%20s%C4%A9%20Long%20Nh%E1%BA%ADt%20v%C3%A0%20S%C6%A1n%20Ng%E1%BB%8Dc%20Minh%20b%E1%BB%8B%20b%E1%BA%AFt "Chia sẻ bài viết lên Telegram")
+[ ](https://ngoisao.vnexpress.net/ca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html#box_comment_vne "Bình luận")
+[ ](javascript:; "In") [ ](https://ngoisao.vnexpress.net/thoi-cuoc/hinh-su "Trở lại Hình sự")
+  * [Thời cuộc](https://ngoisao.vnexpress.net/thoi-cuoc "Thời cuộc")
+  * [Hình sự](https://ngoisao.vnexpress.net/thoi-cuoc/hinh-su "Hình sự")
+
+Thứ tư, 20/5/2026, 12:37 (GMT+7)
+# Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt
+TP HCMCông an TP HCM cho biết đã triệt phá một đường dây ma túy quy mô lớn, bắt giữ 74 người liên quan, trong đó có ca sĩ Long Nhật và Sơn Ngọc Minh - cựu thành viên nhóm V.Music.
+Đêm 19, rạng sáng 20/5, Cơ quan Cảnh sát điều tra Công an TP HCM thông tin về kết quả bước đầu chuyên án truy xét bí số 426A do Phòng Cảnh sát điều tra tội phạm về ma túy (PC04) xác lập trong đợt cao điểm 45 ngày đêm "Tổng rà soát, thống kê, phát hiện, đấu tranh, làm sạch địa bàn".
+[](javascript:;) [](javascript:;) [](javascript:;)
+![Những người liên quan trong đường dây ma túy. Ảnh: Công an TP HCM](https://i1-ngoisao.vnecdn.net/2026/05/20/703905409-980282834727867-8370-6010-9489-1779255145.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=_bmKOhM6zJwma8ijrI8ZbA)
+Những người liên quan trong đường dây ma túy. Ảnh: _Công an TP HCM_
+Kết quả điều tra bước đầu, công an đã bắt và xử lý 74 người. Trong đó, 71 bị can bị khởi tố, bắt tạm giam để điều tra các hành vi "Mua bán trái phép chất ma túy", "Tàng trữ trái phép chất ma túy" và "Tổ chức sử dụng trái phép chất ma túy". Ba người khác bị xử lý hành chính.
+Trong số những người bị xử lý hình sự có ca sĩ Long Nhật (tên thật Đinh Long Nhật, 59 tuổi) và Sơn Ngọc Minh (36 tuổi), cựu thành viên nhóm nhạc V.Music.
+[](javascript:;) [](javascript:;) [](javascript:;)
+![Ca sĩ Long Nhật. Ảnh: Công an TP HCM](https://ngoisao.vnexpress.net/ca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html)
+Ca sĩ Long Nhật. Ảnh: _Công an TP HCM_
+Ca sĩ Long Nhật nổi tiếng từ thập niên 1990, chuyên dòng nhạc trữ tình, quê hương và nhạc cách mạng. Anh được yêu mến qua các ca khúc: _Mấy nhịp cầu tre, Tóc em đuôi gà, Ở hai đầu nỗi nhớ._ Long Nhật nổi tiếng với chất giọng ấm áp và phong cách trình diễn nhẹ nhàng.
+Sơn Ngọc Minh là ca sĩ từng được biết đến nhiều nhất với vai trò cựu thành viên nhóm nhạc nam V.Music do ca sĩ Hồ Ngọc Hà đỡ đầu. Sau khi nhóm nhạc tan rã, anh theo đuổi sự nghiệp ca hát solo và làm diễn viên.
+[](javascript:;) [](javascript:;) [](javascript:;)
+![Ca sĩ Sơn Ngọc Minh. Ảnh: Công an TP HCM](https://ngoisao.vnexpress.net/ca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html)
+Ca sĩ Sơn Ngọc Minh. Ảnh: _Công an TP HCM_
+Công an TP HCM cho biết việc xử lý các trường hợp trên thể hiện quan điểm "không có vùng cấm, không có ngoại lệ" trong đấu tranh phòng, chống tội phạm ma túy, hướng tới mục tiêu xây dựng TP HCM không ma túy vào năm 2030.
+Đại tá Phạm Đình Ngọc, Trưởng phòng PC04, cho biết ban chuyên án tập trung mở rộng điều tra sâu các mối quan hệ, đường dây và nghi can liên quan, với mục tiêu "không chỉ đánh khúc giữa, bắt cả đường dây, đối tượng cầm đầu và xử lý đến người sử dụng ma túy".
+**Hoàng Yến**
+[ Trở lại Hình sự ](https://ngoisao.vnexpress.net/thoi-cuoc/hinh-su "Trở lại Hình sự")
+Chia sẻ [ Copy link thành công ](javascript:; "Copy link") [ ](javascript:; "Chia sẻ bài viết lên Facebook") [ ](https://t.me/share/url?url=https%3A%2F%2Fngoisao.vnexpress.net%2Fca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html&text=Ca%20s%C4%A9%20Long%20Nh%E1%BA%ADt%20v%C3%A0%20S%C6%A1n%20Ng%E1%BB%8Dc%20Minh%20b%E1%BB%8B%20b%E1%BA%AFt "Chia sẻ bài viết lên Telegram")
+##  Tiêu điểm [Miss Grand International All Stars](https://ngoisao.vnexpress.net/topic/miss-grand-international-all-stars-28901 "Miss Grand International All Stars")
+[ ![Giám khảo chấm Hương Giang điểm thấp từ chức](https://i1-ngoisao.vnecdn.net/2026/06/03/top10-1780474975-8268-1780475029.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=N-WzSUYNcQ8H6YylP7T2SA) ](https://ngoisao.vnexpress.net/giam-khao-cham-huong-giang-diem-thap-tu-chuc-5081553.html "Giám khảo chấm Hương Giang điểm thấp từ chức")
+###  [Giám khảo chấm Hương Giang điểm thấp từ chức](https://ngoisao.vnexpress.net/giam-khao-cham-huong-giang-diem-thap-tu-chuc-5081553.html "Giám khảo chấm Hương Giang điểm thấp từ chức") [ ](https://ngoisao.vnexpress.net/giam-khao-cham-huong-giang-diem-thap-tu-chuc-5081553.html#box_comment)
+Tiêu điểm khác
+[ ![Talk series 'Star of the Month'](https://i-ngoisao.vnecdn.net/2026/05/27/hoangoanh111-1779879655-3355-1779879768_140x84.jpg) ](https://ngoisao.vnexpress.net/topic/talk-series-star-of-the-month-28762 "Talk series 'Star of the Month'")
+###  [Talk series 'Star of the Month'](https://ngoisao.vnexpress.net/topic/talk-series-star-of-the-month-28762 "Talk series 'Star of the Month'")
+[ ![Cơ thể phụ nữ lên tiếng](https://i-ngoisao.vnecdn.net/2026/04/08/5cf7719edea4ae3990a8b17d52c2bbe0jpg-1775612750_140x84.jpg) ](https://ngoisao.vnexpress.net/topic/co-the-phu-nu-len-tieng-28765 "Cơ thể phụ nữ lên tiếng")
+###  [Cơ thể phụ nữ lên tiếng](https://ngoisao.vnexpress.net/topic/co-the-phu-nu-len-tieng-28765 "Cơ thể phụ nữ lên tiếng")
+[ ![Cơ ngơi của Sao](https://i-ngoisao.vnecdn.net/2026/06/05/dsc03752-1780630125-4720-1780630819_140x84.jpg) ](https://ngoisao.vnexpress.net/topic/co-ngoi-cua-sao-28761 "Cơ ngơi của Sao")
+###  [Cơ ngơi của Sao](https://ngoisao.vnexpress.net/topic/co-ngoi-cua-sao-28761 "Cơ ngơi của Sao")
+×
+## Gửi email cho tác giả
+Email của bạn
+Tên của bạn
+Nội dung Thông điệp gửi kèm
+Gửi email
+×
+×
+![](https://ngoisao.vnexpress.net/ca-si-long-nhat-va-son-ngoc-minh-bi-bat-5076069.html)
+[ Về trang chủ ](https://ngoisao.vnexpress.net "Về trang chủ") Hotline: 0822 333 444  Quảng cáo: 090 293 9644 
+[ ![](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/icons/icons-youtube.svg) Ấn để theo dõi Ngôi sao ](https://www.youtube.com/channel/UC_5BW7HTR-KPl7VCru8qWog?sub_confirmation=1) [ ![](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ns2/icons/icons-dieukhoan.svg) Điều khoản sử dụng ](https://vnexpress.net/dieu-khoan-su-dung "Điều khoản sử dụng")
+[ Liên hệ: Quảng cáo ](https://eclick.vn/lien-he/?utm_source=NgoiSao&utm_medium=CPC_BOX&utm_campaign=LienHeQuangCao "Liên hệ quảng cáo") [ Tòa soạn ](https://ngoisao.vnexpress.net/lien-he "Liên hệ tòa soạn")
+[ RSS ](https://ngoisao.vnexpress.net/rss "Rss") [ Lên đầu trang ](javascript:void\(0\); "Lên đầu trang")
+[![Ngoisao.vnexpress.net – Trang bao ve nhung nguoi noi tieng](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/graphics/logo_ns.svg)](https://ngoisao.vnexpress.net "Ngoisao.vnexpress.net – Trang báo về những người nổi tiếng")
+Chuyên trang giải trí của VnExpress
+Số giấy phép: 70/GP-CBC, Bộ Thông tin và Truyền thông, ngày 22/9/2021
+  
+
+Tổng biên tập: Phạm Văn Hiếu   
+Email: ngoisao@vnexpress.net | Điện thoại: 024 7300 9999 - Ext 4546  
+Tầng 10, Tòa A FPT Tower, số 10 Phạm Văn Bạch, phường Cầu Giấy, Hà Nội 
+Tải ứng dụng: ![Tải app](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/graphics/app_ns.png)
+Ngôi sao
+[![Tải app](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/graphics/app_store.png)](https://ngoisao.vnexpress.net/app.html?vn_source=PCNgoiSao&vn_medium=PCFooter&vn_campaign=AppNgoiSao&type=ios) [![Tải app](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/graphics/google_play.png)](https://ngoisao.vnexpress.net/app.html?vn_source=PCNgoiSao&vn_medium=PCFooter&vn_campaign=AppNgoiSao&type=android)
+![qrcode](https://s1.vnecdn.net/ngoisao/restruct/i/v549/ngoisao2018/graphics/app_qrcode.png)
+[](javascript:;)
+[Đánh giá phiên bản mới](https://docs.google.com/forms/d/e/1FAIpQLSfMG3BJlP_owOkX6zp7ixRN5wq5dy45q-h2POqs4BWkPwdy2w/viewform) [ ](javascript:;)
+Đăng ký nhận thông báo từ Ngoisao.vnexpress.net giúp bạn cập nhật tin tức nhanh chóng và thuận tiện hơn.
+[![Ngoisao.vnexpress.net – Trang bao ve nhung nguoi noi tieng](https://s.vnecdn.net/ngoisao/restruct/i/v26/ngoisao2018/graphics/logo_ns.svg)](https://ngoisao.vnexpress.net "Ngoisao.vnexpress.net – Trang báo về những người nổi tiếng") Đồng ý Để sau
+×
+[ Phản hồi ](javascript:;)
