@@ -38,9 +38,8 @@ st.markdown("""
 # ─── Lazy-load pipeline (cached) ────────────────────────────────────────────
 @st.cache_resource(show_spinner="Đang khởi động RAG pipeline…")
 def load_pipeline():
-    from src.task10_generation import generate_with_citation
-    from src.task9_retrieval_pipeline import retrieve
-    return generate_with_citation, retrieve
+    from src.agents.run import run_pipeline_dict
+    return run_pipeline_dict
 
 
 # ─── Sidebar ────────────────────────────────────────────────────────────────
@@ -71,6 +70,7 @@ with st.sidebar:
     if st.button("🗑️ Xóa lịch sử chat", use_container_width=True):
         st.session_state.messages = []
         st.session_state.source_history = []
+        st.session_state.trace_history = []
         st.rerun()
 
     st.caption("Nguồn dữ liệu: Luật PCMT 2025, Nghị định 163 & 28/2026, VnExpress, Ngôi sao")
@@ -80,6 +80,8 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 if "source_history" not in st.session_state:
     st.session_state.source_history = []
+if "trace_history" not in st.session_state:
+    st.session_state.trace_history = []
 if "pending_query" not in st.session_state:
     st.session_state.pending_query = None
 
@@ -95,7 +97,7 @@ for i, msg in enumerate(st.session_state.messages):
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
         # Show sources for assistant messages
-        if msg["role"] == "assistant" and show_sources and i < len(st.session_state.source_history):
+        if msg["role"] == "assistant" and show_sources and (i // 2) < len(st.session_state.source_history):
             sources = st.session_state.source_history[i // 2]
             if sources:
                 with st.expander(f"📚 {len(sources)} nguồn tài liệu đã dùng", expanded=False):
@@ -113,6 +115,22 @@ for i, msg in enumerate(st.session_state.messages):
                             f'<small>{src["content"][:200]}…</small>'
                             f'</div>',
                             unsafe_allow_html=True,
+                        )
+        if msg["role"] == "assistant" and (i // 2) < len(st.session_state.trace_history):
+            trace_events = st.session_state.trace_history[i // 2]
+            if trace_events:
+                with st.expander("🧠 Reasoning flow (trace)", expanded=False):
+                    for idx, event in enumerate(trace_events, 1):
+                        metadata = event.get("metadata", {})
+                        meta_text = (
+                            f" | metadata: {metadata}" if metadata else ""
+                        )
+                        st.markdown(
+                            f"{idx}. **{event.get('agent', 'unknown')}** → "
+                            f"`{event.get('step', 'unknown')}` "
+                            f"({event.get('duration_ms', 0)}ms)\n\n"
+                            f"- Input: {event.get('input_summary', '')}\n"
+                            f"- Output: {event.get('output_summary', '')}{meta_text}"
                         )
 
 # Handle sample query buttons
@@ -146,15 +164,19 @@ if user_input:
     with st.chat_message("assistant"):
         with st.spinner("Đang tìm kiếm và tổng hợp…"):
             try:
-                generate_fn, _ = load_pipeline()
-                result = generate_fn(augmented_query, top_k=top_k)
+                run_pipeline = load_pipeline()
+                result = run_pipeline(
+                    augmented_query,
+                    top_k=top_k,
+                    use_reranking=use_reranking,
+                )
                 answer = result["answer"]
                 sources = result["sources"]
-                retrieval_src = result.get("retrieval_source", "hybrid")
+                trace_events = result.get("trace", [])
             except Exception as e:
                 answer = f"❌ Lỗi hệ thống: {e}"
                 sources = []
-                retrieval_src = "error"
+                trace_events = []
 
         st.markdown(answer)
 
@@ -181,3 +203,4 @@ if user_input:
     st.session_state.messages.append({"role": "assistant", "content": answer})
     # Store sources indexed by assistant turn index
     st.session_state.source_history.append(sources)
+    st.session_state.trace_history.append(trace_events)
